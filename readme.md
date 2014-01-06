@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [math/utils-linear-partitioning](http://github.com/math/utils-linear-partitioning). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/math-utils-linear-partitioning`.*
 
 # The Partition Problem
 
